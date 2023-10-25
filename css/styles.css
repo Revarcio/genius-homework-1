@@ -69,6 +69,7 @@ address {
 }
 
 .link2 {
+  background-color: var(--color-primary-dark);
   color: var(--color-primary-light);
   font-size: 16px;
   font-weight: 400;
@@ -135,6 +136,7 @@ address {
 /* Our procedures section */
 .our_procedures-text {
   color: var(--color-primary-light);
+  background-color: var(--color-primary-dark);
   font-family: "Roboto";
   font-weight: 400;
   font-size: 22px;
@@ -144,6 +146,7 @@ address {
 /* Contact section */
 .contacts-text {
   color: var(--color-primary-light);
+  background-color: var(--color-primary-dark);
   font-family: "Roboto";
   font-weight: 600;
   font-size: 22px;
@@ -151,6 +154,7 @@ address {
 }
 
 .contacts-span {
+  background-color: var(--color-primary-dark);
   color: var(--color-brand);
   font-family: "Roboto";
   font-weight: 600;
@@ -160,6 +164,7 @@ address {
 
 .contacts-text2 {
   color: var(--color-primary-light);
+  background-color: var(--color-primary-dark);
   font-family: "Roboto";
   font-weight: 400;
   font-size: 13px;
